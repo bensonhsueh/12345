@@ -7,5 +7,6 @@ int main()
 	cout<<"oooooooooooooooops";
 	cout<<"oops";
 	cin>>aa;
+	cout<<"8787";
 }
 
