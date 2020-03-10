@@ -4,5 +4,6 @@ int main()
 {
 	cout<<"vglohdogtrdeorfergerij";
 	cout<<"oooooooooooooooops";
+	cout<<"oops";
 }
 
